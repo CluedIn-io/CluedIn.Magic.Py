@@ -14,7 +14,7 @@ pandas = "^2.2.2"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
-pytest = "^8.3.2"
+pytest = "^9.0.3"
 python-dotenv = "^1.0.1"
 
 [build-system]
