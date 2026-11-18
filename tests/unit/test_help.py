@@ -2,7 +2,7 @@
 import pytest
 from dotenv import load_dotenv
 
-from .ctx import get_ipython_shell
+from ..ctx import get_ipython_shell
 
 load_dotenv()
 
